@@ -1,0 +1,7 @@
+C:\Users\Joseph\Desktop\New folder\14th feb lab\14th feb lab\bin\Debug\14th feb lab.exe.config
+C:\Users\Joseph\Desktop\New folder\14th feb lab\14th feb lab\bin\Debug\14th feb lab.exe
+C:\Users\Joseph\Desktop\New folder\14th feb lab\14th feb lab\bin\Debug\14th feb lab.pdb
+C:\Users\Joseph\Desktop\New folder\14th feb lab\14th feb lab\obj\Debug\14th feb lab.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\New folder\14th feb lab\14th feb lab\obj\Debug\14th feb lab.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\New folder\14th feb lab\14th feb lab\obj\Debug\14th feb lab.exe
+C:\Users\Joseph\Desktop\New folder\14th feb lab\14th feb lab\obj\Debug\14th feb lab.pdb
