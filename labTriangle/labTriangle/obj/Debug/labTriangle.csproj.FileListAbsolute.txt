@@ -1,0 +1,7 @@
+C:\Users\Joseph\Desktop\New folder\labTriangle\labTriangle\bin\Debug\labTriangle.exe.config
+C:\Users\Joseph\Desktop\New folder\labTriangle\labTriangle\bin\Debug\labTriangle.exe
+C:\Users\Joseph\Desktop\New folder\labTriangle\labTriangle\bin\Debug\labTriangle.pdb
+C:\Users\Joseph\Desktop\New folder\labTriangle\labTriangle\obj\Debug\labTriangle.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\New folder\labTriangle\labTriangle\obj\Debug\labTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\New folder\labTriangle\labTriangle\obj\Debug\labTriangle.exe
+C:\Users\Joseph\Desktop\New folder\labTriangle\labTriangle\obj\Debug\labTriangle.pdb
